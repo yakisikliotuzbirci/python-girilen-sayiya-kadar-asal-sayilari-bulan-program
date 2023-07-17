@@ -1,1 +1,1 @@
-# asal-say-lar--bulan-python-program-
+# asal-sayilari-bulan-python-programi
